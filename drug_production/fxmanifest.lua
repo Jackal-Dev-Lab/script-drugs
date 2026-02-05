@@ -4,7 +4,7 @@ game 'gta5'
 lua54 'yes'
 
 name 'drug_production'
-author 'GPT-5.2-Codex'
+author 'Jackal'
 description 'Gang-based drug production with lab control, intrusion and advanced crafting pipelines (no selling)'
 version '1.0.0'
 
